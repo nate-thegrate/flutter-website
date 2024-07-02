@@ -33,12 +33,14 @@ release, and listed in alphabetical order:
 
 ### Not yet released to stable
 
+* [Migrating ink effects to the widgets library][]
 * [Navigator's page APIs breaking change][]
 * [Generic types in `PopScope`][]
 * [Stop generating `AssetManifest.json`][]
 * [Deprecate `TextField.canRequestFocus`][]
 * [Deprecate `ButtonBar` in favor of `OverflowBar`][]
 
+[Migrating ink effects to the widgets library]: /release/breaking-changes/interactive-ink-feature
 [Navigator's page APIs breaking change]: /release/breaking-changes/navigator-and-page-api
 [Generic types in `PopScope`]: /release/breaking-changes/popscope-with-result
 [Stop generating `AssetManifest.json`]: /release/breaking-changes/asset-manifest-dot-json
